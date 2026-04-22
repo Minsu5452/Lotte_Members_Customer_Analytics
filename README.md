@@ -1,25 +1,31 @@
-# L-point Customer Analytics
+# L-point 고객 분석
 
-고객 구매 데이터를 기반으로 세그먼트를 정의하고 개인화 마케팅 전략을 설계한 분석 프로젝트입니다. 페르소나 매핑, 베이지안 모델링, 세그먼트 EDA를 순차적으로 정리했습니다.
+> 고객 구매 데이터를 기반으로 세그먼트를 정의하고, 분석 결과를 마케팅 전략 제안으로 연결한 프로젝트입니다.
 
-## Snapshot
+## 한눈에 보기
 
-| Item | Detail |
+| 항목 | 내용 |
 | --- | --- |
-| Type | Competition project |
-| Period | 2022 |
-| Team | Team member |
-| Task | 고객 행동 분석과 마케팅 전략 제안 |
-| Approach | Persona mapping, Bayesian modeling, segment EDA |
-| Deliverables | Notebook 3종, 결과보고서 |
+| 유형 | 분석 프로젝트 |
+| 기간 | 2022 |
+| 팀 구성 | 팀 프로젝트 |
+| 문제 | 고객 행동 분석과 개인화 마케팅 전략 제안 |
+| 핵심 접근 | Persona mapping, Bayesian modeling, segment EDA |
+| 이 저장소가 증명하는 것 | 데이터 분석 결과를 비즈니스 제안으로 번역하는 역량 |
 
-## Work Summary
+## 제가 맡은 일
 
 - 구매 이력에서 핵심 행동 지표를 추출해 고객 페르소나를 정의했습니다.
 - 베이지안 모델링으로 구매 행동의 확률적 패턴을 해석했습니다.
 - 세그먼트별 차이를 정리해 마케팅 전략 제안으로 연결했습니다.
 
-## Repository Layout
+## 이 저장소에서 읽히는 강점
+
+- 숫자와 패턴을 읽는 분석 능력뿐 아니라 해석력도 함께 드러납니다.
+- 세그먼트별 차이를 실무적인 액션 아이디어로 연결하는 사고를 확인할 수 있습니다.
+- 데이터사이언스와 기획의 경계에서 일할 수 있는 감각이 보입니다.
+
+## 저장소 구성
 
 - `1. Persona Mapping.ipynb`: 고객 유형 정의
 - `2. Bayesian modeling.ipynb`: 확률 모델링

@@ -1,0 +1,13 @@
+.DS_Store
+.ipynb_checkpoints/
+
+data/
+models/
+submissions/
+dnn_tuning/
+
+*.csv
+*.pkl
+*.h5
+*.keras
+*.pb
